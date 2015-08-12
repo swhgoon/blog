@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "swhgoon",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"swhgoon","repositoryName":"blog","branch":"gh-pages"},"site":{"url":"https://swhgoon.github.io/blog"},"socialnetwork":{"github":"swhgoon"},"theme":{"name":"Casper","url":"//swhgoon.github.io/blog/themes/Casper"}}
